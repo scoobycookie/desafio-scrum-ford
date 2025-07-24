@@ -1,0 +1,16 @@
+SPRINT RETROSPECTIVE
+
+O que funcionou bem:
+- Divisão de tarefas em branches separadas permitiu trabalho paralelo
+- Versionamento facilitou o acompanhamento das alterações
+- Estimativas de tempo foram realistas
+
+O que não funcionou bem:
+- Dificuldade inicial com conflitos de merge
+- Falta de padronização nas mensagens de commit
+- Tempo gasto com configuração inicial do ambiente
+
+Sugestões de melhoria:
+- Definir padrão para mensagens de commit
+- Realizar treinamento básico de Git para toda equipe
+- Criar template para documentos do Scrum
